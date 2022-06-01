@@ -1,0 +1,1 @@
+print ("creamos un archivo en VSC")
